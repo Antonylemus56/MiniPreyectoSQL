@@ -1,0 +1,2 @@
+# MiniPreyectoSQL
+Proyecto Curso SQL
